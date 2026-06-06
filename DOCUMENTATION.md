@@ -23,11 +23,11 @@
 
 **Full title:** QGRAV: Hybrid Quantum-Classical Graph Attention Network for Gravitational Wave Detection
 
-**Author:** Adi Singh, Mississippi State University (B.S. Computer Science; M.S. Cybersecurity Operations and Defense, Fall 2026)
+**Author:** Adi Singh, Mississippi State University (B.S. Computer Science; M.S. Computer Science, Fall 2026)
 
 **Target venue:** *Machine Learning: Science and Technology* (IOP Publishing) — indexed in Web of Science and Scopus, open access, specifically created for ML methods applied to physical science problems.
 
-**Repository:** `github.com/operator2036/QGRAV`
+**Repository:** `github.com/researchingadi/QGRAV`
 
 **Current status:** Pre-code. Architecture fully designed, preprocessing contract locked, literature review complete, documentation in progress. Data pipeline is next.
 
@@ -40,7 +40,7 @@ QGRAV is the first architecture to encode the measured Pearson cross-correlation
 
 ### May 7, 2026 — Initial Conception
 
-The project began with a goal: build a late-master's / early-PhD level research project involving gravitational wave detection in noisy data. The initial observation that formed the project's core contribution was this:
+The project began with a goal: build a project involving gravitational wave detection in noisy data. The initial observation that formed the project's core contribution was this:
 
 > *Every deep learning paper on gravitational wave detection since George & Huerta (2018) processes each LIGO/Virgo detector independently and fuses results with naive concatenation or majority voting. This discards the single most physically meaningful constraint in multi-detector GW astronomy: the inter-detector propagation delay is a hard geometric prior that encodes sky position, and the cross-detector coherence of a signal is literally how physicists confirm a real detection.*
 
