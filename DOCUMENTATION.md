@@ -136,11 +136,6 @@ Later renamed QGRAV after the quantum component was added.
 
 ---
 
-### May 12, 2026 — Project Documentation System Established
-
-**Decision:** Maintain a CLAUDE.md for session continuity plus a full DOCUMENTATION.md for research record. This file.
-
----
 
 ### June 2026 — Preprocessing Contract Locked In
 
