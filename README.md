@@ -11,7 +11,6 @@
 ![Target](https://img.shields.io/badge/target-ML%3AST%20%7C%20IOP-lightgrey)
 
 **Adi Singh** · Mississippi State University  
-*Targeting: Machine Learning: Science and Technology (IOP Publishing)*
 
 </div>
 
