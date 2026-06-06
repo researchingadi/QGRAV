@@ -562,13 +562,11 @@ QGRAV/
 
 ### Publication Questions
 
-1. **Co-authorship:** Dr. Zhiqian Chen (MSU, GNN expertise) has not been contacted yet. This remains the highest-leverage non-code action in the project. A faculty co-author strengthens the paper's credibility and the GNN methodology framing substantially.
-
-2. **AttenGW authors as reviewers:** Tiki & Huerta are from Argonne, connected to the Huerta group that reviews this area of ML:ST regularly. QGRAV must be clearly differentiated from AttenGW in the cover letter and abstract — the distinction is physics-informed graph edge features vs temporal cross-attention.
+1. **AttenGW authors as reviewers:** Tiki & Huerta are from Argonne, connected to the Huerta group that reviews this area of ML:ST regularly. QGRAV must be clearly differentiated from AttenGW in the cover letter and abstract — the distinction is physics-informed graph edge features vs temporal cross-attention.
 
 ---
 
-*Document last updated: June 2026*
+*Document last updated: 6 June 2026*
 *Next planned update: After data pipeline is complete and first training results are in*
 
 ---
