@@ -205,7 +205,7 @@ QGRAV/
 ## Author
 
 **Adi Singh** · B.S. CSE + M.S. CSE, Mississippi State University
-GitHub: [@operator2036](https://github.com/researchingadi)
+GitHub: [@researchingadi](https://github.com/researchingadi)
 
 ---
 
