@@ -24,7 +24,7 @@ We present QGRAV, a hybrid quantum-classical deep learning pipeline for detectin
 
 ## The Core Contribution
 
-Every deep learning GW detection paper fuses multi-detector information through concatenation, pooling, or temporal attention — none encode the physical constraint that distinguishes a real signal from a glitch: a true gravitational wave must produce a correlated, coherent signal across the network with a time delay consistent with propagation at the speed of light.
+Every deep learning GW detection paper fuses multi-detector information through concatenation, pooling, or temporal attention, none encode the physical constraint that distinguishes a real signal from a glitch: a true gravitational wave must produce a correlated, coherent signal across the network with a time delay consistent with propagation at the speed of light.
 
 QGRAV encodes this constraint as an architectural prior:
 
