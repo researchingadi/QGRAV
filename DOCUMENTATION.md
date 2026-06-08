@@ -1,6 +1,6 @@
 # QGRAV: Complete Research Documentation
 
-> *This file is the living record of every decision made in the QGRAV project — the reasoning, the alternatives considered, the literature that shaped our thinking, and the precise evolution of our contribution statement. It is updated continuously as the project progresses. Anyone reading this document should be able to reconstruct every significant choice we made and understand exactly why we made it.*
+> *This file is the living record of every decision made in the QGRAV project : the reasoning, the alternatives considered, the literature that shaped our thinking, and the precise evolution of our contribution statement. It is updated continuously as the project progresses. Anyone reading this document should be able to reconstruct every significant choice we made and understand exactly why we made it.*
 
 ---
 
